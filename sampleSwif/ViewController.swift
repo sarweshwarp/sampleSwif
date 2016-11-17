@@ -60,7 +60,7 @@ class ViewController: UIViewController {
         let sum1 = sum(10,y: 20)
         print(sum1)
        
-        let numbers:[Int] = [1,5,3,4,2,7,6]
+        let numbers:[Int] = [1,5,3,4,2,7,6,9,10]
         let  sortedNames = numbers.sort()
         print(sortedNames)
         var str = [String:AnyObject]();
